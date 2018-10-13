@@ -1,2 +1,2 @@
 # cuttlefish
-I have no idea what I am doing.
+This is small project made to learn some code, and to learn about github.
